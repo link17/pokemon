@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PokemonDictionary</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_map">지도보기</string>
+    <string name="cm">cm</string>
+    <string name="g">g</string>
+</resources>
